@@ -1,0 +1,5 @@
+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
+
+link: https://platform.openai.com/docs/api-reference/images/create
+api : 
+https://api.openai.com/v1/images/generations
